@@ -25,6 +25,8 @@ Atualmente trabalho construindo APIs modernas, arquiteturas organizadas e aplica
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+
 
 ### 📱 **Mobile**
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
@@ -43,7 +45,8 @@ Atualmente trabalho construindo APIs modernas, arquiteturas organizadas e aplica
 - APIs modernas em **.NET 8 e .NET 9**  
 - Apps Angular com design limpo  
 - MVPs rápidos e eficientes  
-- Automação de tarefas com C#  
+- Automação de tarefas com C#
+- Automação de testes com Cypress para aplicações Angular  
 
 ---
 
@@ -53,7 +56,7 @@ Atualmente trabalho construindo APIs modernas, arquiteturas organizadas e aplica
 - **JWT + Identity + API Key**  
 - **AWS S3 para upload seguro**  
 - Melhorando inglês técnico lendo artigos de .NET  
-
+- Automação de testes End-to-End com Cypress  
 ---
 
 ## 🤝 **Buscando colaborar com**
@@ -86,6 +89,7 @@ Atualmente trabalho construindo APIs modernas, arquiteturas organizadas e aplica
 - 🎮 Experiência com apps Ionic e integrações complexas  
 - 🛠️ Refatorando sempre para deixar o código mais limpo  
 - 📚 Aprofundando arquitetura e boas práticas  
+- 🧪 Ganhando experiência prática em E2E tests  
 - 👧 Pai de uma menina de 7 anos  
 
 ---
